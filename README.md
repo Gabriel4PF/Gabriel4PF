@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabriel4PF
 - 👀 I’m interested in Web Development, Software Engineering 
 - 🌱 I’m currently learning CSS, HTML , JAVASCRIPT
-- 💞️ I’m looking to collaborate on Open source projects to help develop my skills
+- 💞️ I’m looking to collaborate on Open source projects to add meaningfull value and also develop my skills further
 - 📫 How to reach me you can contact me at my email address - GabrielJinadu7@gmail.com
 
 <!---
